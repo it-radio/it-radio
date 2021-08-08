@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 &nbsp;Current show - Terraform Season 1
+🔭 &nbsp;Terraform Season 1
+🌱 &nbsp;Terraform
