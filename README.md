@@ -1,4 +1,5 @@
-### Hi there 👋
+# IT Radio
+### Ke radio mo thelevishene, contradiction
 
 <!--
 **it-radio/it-radio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭  Current show - Terraform Season 1
